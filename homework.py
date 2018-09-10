@@ -1,4 +1,4 @@
-# 1 task
+# 2 task
 number = int(input("Your number"))
 
 action = None
