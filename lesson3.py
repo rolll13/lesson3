@@ -109,3 +109,5 @@ arr = []
 for i in range(-10, 10, 1):
     arr.append(foo_result(i))
 
+print('Hello world')
+
