@@ -60,5 +60,9 @@ print(_sum / (_count or 1))
 # new line
 # new line in branch branch_1
 
+# line 1
+# line 2
+# line 3
+
 
 
