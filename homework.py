@@ -57,5 +57,7 @@ for value in a:
         _count += 1
 print(_sum / (_count or 1))
 
+# new line
+
 
 
